@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin-side",
+    "\\src\\app\\admin-side\\CustomPipe",
+    "\\src\\app\\admin-side\\missionskill\\add-mission-skill",
+    "\\src\\app\\admin-side\\user",
+    "\\src\\app\\admin-side\\user\\add-user",
+    "\\src\\app\\admin-side\\user\\update-user",
+    "\\src\\app\\NavBar"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
